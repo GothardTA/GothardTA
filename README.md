@@ -6,6 +6,7 @@ Some of the projects I am currently working on include:
 Some projects I have previously made include:
 <ul>
   <li>Connect Four Robot - you can press a button and it automatically moves to a favorable position to win or block your next move</li>
+  <li>A gravity simulator - A very basic program where you can spawn planets to orbit or crash into each other</li>
   <li>Blackjack - the game blackjack written using java</li>
 </ul>
 
