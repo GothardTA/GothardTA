@@ -1,11 +1,11 @@
 Hello! My name is Trooper Gothard and I am currently a high school student. Some things that interest me are electrical engineering, mechanical engineering, and software engineering.<br>
 Some of the projects I am currently working on include:
 <ul>
-  <li>Connect Four robot - a robot that can physically play connect four</li>
-  <li>3D renderer - a very basic 3d renderer written in java using swing</li>
+  <li>A drone for the Colorado TSA competition in 2025 (see more on my website, https://gothardta.github.io)</li>
 </ul>
 Some projects I have previously made include:
 <ul>
+  <li>Connect Four Robot - you can press a button and it automatically moves to a favorable position to win or block your next move</li>
   <li>Blackjack - the game blackjack written using java</li>
 </ul>
 
